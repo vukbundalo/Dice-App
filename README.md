@@ -2,8 +2,6 @@
 
 # Dicee 🎲
 
-## Our Goal
-
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 ## What I learned while building this app
