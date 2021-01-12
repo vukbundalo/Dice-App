@@ -2,7 +2,7 @@
 
 # Dicee 🎲
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
 
 ## What I learned while building this app
 
@@ -15,3 +15,5 @@
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
